@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gowthamhegde13
 - 👀 I’m interested in playing music 
-- 🌱 I’m currently learning my 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Working in Gokaldas
+- 💞️ I’m looking someone who can teach me in coding 
+- 📫 How to reach me in whatsapp +91 9110278828
 
 <!---
 Gowthamhegde13/Gowthamhegde13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
